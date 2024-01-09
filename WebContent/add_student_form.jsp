@@ -11,7 +11,10 @@
 <body>
 	<div id="wrapper">
 		<div id="header">
-			<h2>VIT UNIVERSITY</h2>
+			<div id="heading">
+				<img src="https://vtopcc.vit.ac.in/vtop/assets/img/VITLogoEmblem.png" alt="logo" />
+				<h2>VIT</h2>
+			</div>
 		</div>
 		<div id="container">
 			<h3>Add Student</h3>
